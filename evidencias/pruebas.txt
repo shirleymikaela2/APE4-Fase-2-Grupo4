@@ -1,0 +1,11 @@
+Paso 1 correcto
+Paso 2 correcto
+Paso 3 correcto
+Paso 4 correcto
+Paso 5 correcto
+Paso 6 correcto
+Paso 7 correcto
+Paso 8 correcto
+Validaciones de entrada correctas
+Independencia de relaciones y limpieza correctas
+Total: 98 verificaciones correctas.

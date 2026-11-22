@@ -1,0 +1,31 @@
+1. registrarPersona A01–A06 y cargar las cinco amistades
+A06 Diego | Amigos:  | Sigue a:
+A05 Camila | Amigos: Andrés | Sigue a:
+A04 Andrés | Amigos: Camila, Sofía, Valeria | Sigue a:
+A03 Valeria | Amigos: Andrés, Mateo | Sigue a:
+A02 Mateo | Amigos: Valeria, Sofía | Sigue a:
+A01 Sofía | Amigos: Andrés, Mateo | Sigue a:
+contarAmigos(A01) = 2
+contarAmigos(A02) = 2
+contarAmigos(A03) = 2
+contarAmigos(A04) = 3
+contarAmigos(A05) = 1
+contarAmigos(A06) = 0
+2. seguir(A02,A01) = true
+listarSeguidores(A01) = Mateo
+3. seguir(A06,A01) = true
+listarSeguidos(A06) = Sofía
+contarAmigos(A06) = 0
+4. listarAmigos(A04) = Camila, Sofía, Valeria
+5. eliminarAmistad(A04,A05) = true
+contarAmigos(A04) = 2
+contarAmigos(A05) = 0
+6. eliminarPersona(A01) = true
+listarAmigos(A01) = null
+A06 Diego | Amigos:  | Sigue a:
+A05 Camila | Amigos:  | Sigue a:
+A04 Andrés | Amigos: Valeria | Sigue a:
+A03 Valeria | Amigos: Andrés, Mateo | Sigue a:
+A02 Mateo | Amigos: Valeria | Sigue a:
+7. registrarPersona(A02, otro nombre) = false
+8. agregarAmistad(A03,A03) = false
