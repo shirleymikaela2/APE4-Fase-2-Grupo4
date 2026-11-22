@@ -1,4 +1,4 @@
-# Conexión Ambato — APE 4 Fase 2 Grupo 4
+# APE 4 Fase 2 Grupo 4
 
 Red social dinámica en Java con seis cuentas iniciales, cinco amistades recíprocas y seguimientos dirigidos. Las personas y aristas se almacenan en listas enlazadas de nodos propios.
 
